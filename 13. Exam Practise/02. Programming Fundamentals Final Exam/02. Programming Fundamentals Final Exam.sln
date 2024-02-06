@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. World Tour", "01. World Tour\01. World Tour.csproj", "{78007605-1C50-46E3-BE94-ACEEF4A41A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Destination Map", "02. Destination Map\02. Destination Map.csproj", "{9275BF89-E7CE-4D21-92FF-2755D5F9B8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Plant Discovery", "03. Plant Discovery\03. Plant Discovery.csproj", "{DD07DDD9-8E0F-42DA-BA15-1262D1137963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78007605-1C50-46E3-BE94-ACEEF4A41A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78007605-1C50-46E3-BE94-ACEEF4A41A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78007605-1C50-46E3-BE94-ACEEF4A41A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78007605-1C50-46E3-BE94-ACEEF4A41A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9275BF89-E7CE-4D21-92FF-2755D5F9B8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9275BF89-E7CE-4D21-92FF-2755D5F9B8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9275BF89-E7CE-4D21-92FF-2755D5F9B8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9275BF89-E7CE-4D21-92FF-2755D5F9B8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD07DDD9-8E0F-42DA-BA15-1262D1137963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD07DDD9-8E0F-42DA-BA15-1262D1137963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD07DDD9-8E0F-42DA-BA15-1262D1137963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD07DDD9-8E0F-42DA-BA15-1262D1137963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC11DBC8-98FA-4EEE-996C-C1166F211B4A}
+	EndGlobalSection
+EndGlobal
